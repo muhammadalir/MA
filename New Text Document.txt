@@ -1,4 +1,8 @@
 salam ali
 how are you ?
+<<<<<<< HEAD
 asdas
 alireza
+=======
+new Branch added
+>>>>>>> origin/new_B
